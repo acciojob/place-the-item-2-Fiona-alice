@@ -1,2 +1,14 @@
+.holder{
+    display: flex;
+    flex-flow: row wrap;
+/*     gap: 20px; */
+	justify-content: center;
+    border: 2px solid red;
 
-/* Your CSS Code here. */
+}
+.box{
+    height: 70px;
+    width: 50px;
+    background-color: orange;
+    
+}
